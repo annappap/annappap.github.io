@@ -36,7 +36,7 @@ img {
  	margin: 0 auto;
   	width: 30%; /* Optional */
 }
-
+	
 img#profile {
 	display: block; /* Ensures the image is treated as a block element */
   	margin-left: 0; /* Prevents left margin from being auto */
@@ -45,7 +45,7 @@ img#profile {
 }
 
 .textbox1 {
-	font-size: 25px;
+	font-size: 30px;
 	word-spacing: 40px;
 	border: 2px solid blue;
 	padding: 10px;
